@@ -1,0 +1,9 @@
+Simon : 
+
+-Playing sound on last Cliked button #
+
+-Playing Random sound with the faded button #
+
+-levels #
+
+-restart
